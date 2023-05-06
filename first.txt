@@ -3,3 +3,4 @@ gitを始めます。
 ・git add
 ・git commit
 
+second text add
