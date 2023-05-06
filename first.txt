@@ -4,3 +4,4 @@ gitを始めます。
 ・git commit
 
 second text add
+git status
