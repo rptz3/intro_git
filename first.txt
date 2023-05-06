@@ -5,3 +5,4 @@ gitを始めます。
 
 second text add
 git status
+git diff
